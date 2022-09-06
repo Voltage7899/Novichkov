@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "155365943490",
+    "firebase_url": "https://novichkov-3978a-default-rtdb.firebaseio.com",
+    "project_id": "novichkov-3978a",
+    "storage_bucket": "novichkov-3978a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155365943490:android:a1ac3e1cb1f1996bce335b",
+        "android_client_info": {
+          "package_name": "com.example.novichkov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155365943490-4lae0um9qkkiau79hsluak6g3ql3gld7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.novichkov",
+            "certificate_hash": "01e39568b596bc4fec30a43a78401c09b9ed164d"
+          }
+        },
+        {
+          "client_id": "155365943490-2r3hh0opgrt1eqfclel6hikh3nj9ufrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWEiIIsl8cMgXeUCWKX9kUEcYG9Xsv1K4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155365943490-2r3hh0opgrt1eqfclel6hikh3nj9ufrf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
